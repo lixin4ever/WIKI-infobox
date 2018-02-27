@@ -1,2 +1,2 @@
 # WIKI-infobox
-list of infobox subjects in Wikipedia
+A list of the subjects of infox in the Wikipedia
